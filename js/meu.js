@@ -4,3 +4,6 @@ function HollaMundo(){
 function setInterval() {
     
 }
+function escolherCurso(){
+   console.log("Holla mundo");
+}
